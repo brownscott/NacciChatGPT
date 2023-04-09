@@ -1,4 +1,4 @@
-<h1 align="center"><b>NacciGPT</b></h1>
+<h1 align="center"><b>GPT</b></h1>
 
 <p align="center">
    English Version |
